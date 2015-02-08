@@ -1,4 +1,0 @@
-
-# Collaborative Metadata Creation #
-
-
