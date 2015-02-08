@@ -1,5 +1,5 @@
 ---
-layout: bootcamp2
+layout: lesson
 root: .  
 title: Data Carpentry: using APIs to access life science data available on the web  
 ---
