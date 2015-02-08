@@ -1,7 +1,7 @@
 ---
 layout: lesson
-root: ../..
-title: Introducing the Shell
+root: .
+title: Usin APIs to access life science data available on the web
 ---
 
 title: Data Carpentry: using APIs to access life science data available on the web  
