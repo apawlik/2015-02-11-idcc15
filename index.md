@@ -1,7 +1,9 @@
 ---
-layout: lesson
-root: ../..
-title: Data Carpentry: using APIs to access life science data available on the web ---
+layout: bootcamp2
+root: .  
+title: Data Carpentry: using APIs to access life science data available on the web  
+---
+
 
 [Full day workshop](http://www.dcc.ac.uk/events/idcc15/workshops#workshop2) at the 
 [10th International Digital Curation Conference](http://www.dcc.ac.uk/events/idcc15)
