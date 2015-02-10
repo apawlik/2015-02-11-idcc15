@@ -1,11 +1,8 @@
 ---
 layout: lesson
 root: .
-title: Usin APIs to access life science data available on the web
+title: Data Carpentry: Using APIs to access life science data available on the web
 ---
-
-title: Data Carpentry: using APIs to access life science data available on the web  
-
 
 
 [Full day workshop](http://www.dcc.ac.uk/events/idcc15/workshops#workshop2) at the 
@@ -18,11 +15,12 @@ Speakers: Aleksandra Pawlik, University of Manchester & Data Carpenry
 
 
 **Objectives of the workshop:**  
-* demonstrating the power of prgrammatically accessing data from the web;  
-* hands-on learning  using API with ROpenSci packages to access data from the web;  
-* directly experiencing Data Carpentry teaching style;  
-* discussing the applicability of Data Carpentry lessons to the participants' own working context;  
-* hands-on experience on collaborative lesson development and improvement (via GitHub) 
+
+ * directly experiencing Data Carpentry teaching style;  
+ * discussing the applicability of Data Carpentry lessons to the participants' own working context;  
+ * demonstrating the power of prgrammatically accessing data from the web;  
+ * hands-on learning  using API with ROpenSci packages to access data from the web;  
+ * hands-on experience on collaborative lesson development and improvement (via GitHub) 
 
 
 **Introduction**  
@@ -35,7 +33,7 @@ Speakers: Aleksandra Pawlik, University of Manchester & Data Carpenry
 
 09:00 - 09:30 Introduction and aims of the workshop  
 09:30 - 10:00 Setup help
-10:00 - 11:00 Introduction to working with R and RStudio - part 1 (hands-on)(a)  
+10:00 - 11:00 [Introduction to working with R and RStudio]() - part 1 (hands-on)(a)  
 11:00 - 11:20 Break  
 11:20 - 12:00 Using ROpenSci packages to access data from the web through API - part 2 (hands-on)   
 12:00 - 12:30 Breakout discussion - in groups about the hands-on lesson (b)  
