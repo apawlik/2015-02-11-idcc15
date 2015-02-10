@@ -47,7 +47,7 @@ This workshop aims to allow the participants learn more about Data Carpentry fro
 [Overwiev and introduction to RStudio](https://github.com/apawlik/datacarpentry/blob/master/lessons/R/00-before-we-start.Rmd)  
 [Starting with  R](https://github.com/apawlik/datacarpentry/blob/master/lessons/R/01-intro-to-R.Rmd)    (a)  
 **11:00 - 11:20** Break  
-**11:20 - 12:00** [Using ROpenSci packages to access data from the web through API](https://github.com/apawlik/2015-02-11-idcc15/blob/gh-pages/ropensci-package.md)  
+**11:20 - 12:00** [Using ROpenSci packages to access data from the web through API](http://apawlik.github.io/2015-02-11-idcc15/ropensci-package.html)  
 **12:00 - 12:30** Breakout discussion -  using [the wiki](https://github.com/apawlik/2015-02-11-idcc15/wiki) (b)  
 **12:30 - 13:30** Lunch  
 **13:30 - 14:00** Reporting back and discussion (c)   
