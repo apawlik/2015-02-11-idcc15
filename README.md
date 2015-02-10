@@ -6,7 +6,7 @@ Data Carpentry: using APIs to access life science data available on the web
 When: **11th February 2015**  at [10th International Digital Curation Conference](http://www.dcc.ac.uk/events/idcc15)
 
 
-[Further details](http://data-lessons.github.io/2015-02-11-idcc15)
+[Further details](http://apawlik.github.io/2015-02-11-idcc15/)
 
 
 
