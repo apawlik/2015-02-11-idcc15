@@ -1,7 +1,7 @@
 ---
 layout: lesson
 root: .
-title: Data Carpentry: Using APIs to access life science data available on the web
+title: Using APIs to access life science data available on the web
 ---
 
 
