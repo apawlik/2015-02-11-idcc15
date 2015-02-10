@@ -89,6 +89,8 @@ You can download the binary files for your distribution fromCRAN. Or you can use
 
 For the group work we will be using [the wiki](https://github.com/apawlik/2015-02-11-idcc15/wiki). You will need a [GitHub](https://github.com/) account to access it. 
 
+Please also download [this sample dataset](https://github.com/apawlik/2015-02-11-idcc15/blob/gh-pages/surveys.zip?raw=true)
+
 
 
 
