@@ -56,6 +56,7 @@ This workshop aims to allow the participants learn more about Data Carpentry fro
 **15:30 - 16:30** Collaborative lesson development and improvement (in groups) part 2;  using [the wiki](https://github.com/apawlik/2015-02-11-idcc15/wiki)   
 **16:30 - 17:00** Reporting back and conclusions
 
+For formatting the lessons material, this [Markdown Cheatsheet](https://help.github.com/articles/github-flavored-markdown/) should be useful.
 
 (a)This part of the workshop will be taught as a Data Carpentry module. It's a "taster session".  
 
